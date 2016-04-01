@@ -19,4 +19,4 @@
 
 ## Show Results
 
-[![CI Status](http://img.shields.io/travis/yaoqi/ViewFrame.svg?style=flat)](https://travis-ci.org/yaoqi/ViewFrame)
+![customalertview](http://yaoqi-github.github.io/images/customalertview.png)
