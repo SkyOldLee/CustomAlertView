@@ -19,4 +19,4 @@
 
 ## Show Results
 
-![customalertview](http://yaoqi-github.github.io/images/customalertview.png)
+![github](https://github.com/yaoqi-github/CustomAlertView/blob/master/customalertview.gif)
